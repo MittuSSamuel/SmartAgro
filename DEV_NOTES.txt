@@ -1,0 +1,4 @@
+Additional developer files included:
+- This updated app supports optional TensorFlow SavedModel in ./model/
+- To create a SavedModel you can fine-tune a MobileNetV2 and then export `model.save('./model')`
+- Firestore: place your Firebase service account JSON as firebase_config.json in project root to enable cloud posting

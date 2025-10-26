@@ -1,0 +1,7 @@
+streamlit==1.24.1
+pillow
+numpy
+gTTS
+opencv-python-headless
+tensorflow>=2.10; platform_system != 'Windows'
+firebase-admin
